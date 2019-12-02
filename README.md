@@ -1,4 +1,4 @@
-# Efects of Climate Change on Water Ressources
+# Effects of Climate Change on Water Resources
 Analysis and statistics on temperature and water consumption
 
 **Project Nr. 2 in IRONHACK, Nov. 2019**
